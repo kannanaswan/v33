@@ -6,15 +6,13 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>Am Just A Pro Auto Filter Bot....😉</b>
+<b>Am Just A Pro Auto Filter Bot Made by CMW....😉</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
+<b> എന്നെ നിങ്ങളുടെ ഗ്രൂപ്പിൽ add ചെയ്യാൻ നോക്കെണ്ട</b>
 
-<b>Watch the video below to build an Pro Autofilter bot like me...</b>
+<b> നിങ്ങളുടെ സഹകരണത്തിന് നന്ദി</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+<b>Team CMW</b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
@@ -46,10 +44,10 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><a href="https://t.me/Mo_Tech_YT">MoTechYT</a></b>
+<b><a href="https://t.me/Cybermediaworks">CMW</a></b>
 """
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
+    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>🔰മംഗലശേരി നീലകണ്ഠൻ🔰</b>
     
 <b>➥ 😎Creator</b> : <b>@AlbertEinstein_TG</b> 
 
@@ -59,5 +57,5 @@ class Translation(object):
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://github.com/kannanaswan/v33">💥Click Me</a></b>
 """
